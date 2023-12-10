@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Power BI Scanner"
+title: "PowerShell Script for Power BI Workspace Scanning and Database Storage"
 subtitle: 'Power BI Scanner to SQL Server'
 date: 2023-12-07
 author: "Ted"
