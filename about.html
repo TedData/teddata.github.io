@@ -1,0 +1,22 @@
+---
+layout: page
+title: "ABOUT"
+description: "The only thing a man can control is his own actions"
+header-img: "img/about_me_background.JPG"
+header-mask: 0.3
+multilingual: true
+---
+
+{% include multilingual-sel.html %}
+
+<!-- English Version -->
+<div class="en post-container">
+    {% capture about_en %}{% include about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
+</div>
