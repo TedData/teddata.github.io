@@ -74,6 +74,7 @@ ga_domain: https://teddata.github.io/about/
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "The Dance of Data, Insight into Tomorrow"
 sidebar-avatar: https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/A8E05BE7-349B-450E-A480-0424C13DF319.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
+<!DOCTYPE html><html><body><iframe src="https://web.powerva.microsoft.com/environments/Default-75e80324-76ec-45e3-adfb-6d7c4226c65f/bots/cr240_copilot1/webchat?__version__=2" frameborder="0" style="width: 30%; height: 50%;"></iframe></body></html>
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
