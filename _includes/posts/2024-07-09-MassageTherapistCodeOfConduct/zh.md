@@ -1,62 +1,62 @@
-### 按摩店按摩师守则
+### Massage Therapist Code of Conduct
 
-#### 一、职业道德
+#### I. Professional Ethics
 
-1. *客户至上*：以客户满意为首要目标，热情接待每一位顾客，耐心听取客户需求和意见，尽全力提供优质服务。
-2. *诚信经营*：遵循诚实守信的原则，不夸大宣传，不虚假承诺，公平对待每一位客户。
-3. *保密原则*：尊重客户隐私，未经客户同意，不得透露客户的任何个人信息和服务记录。
-4. *职业操守*：杜绝任何形式的性骚扰行为，维护行业形象和个人名誉。
+1. *Customer First*: Prioritize customer satisfaction, warmly welcome every guest, patiently listen to their needs and feedback, and strive to provide high-quality service.
+2. *Honest Operation*: Adhere to the principles of honesty and integrity, avoid exaggerated advertising and false promises, and treat every customer fairly.
+3. *Confidentiality*: Respect customer privacy, and do not disclose any personal information or service records without customer consent.
+4. *Professional Conduct*: Strictly prohibit any form of sexual harassment, maintaining the industry’s reputation and personal honor.
 
-#### 二、工作规范
+#### II. Work Standards
 
-1. *着装整洁*：上班时穿戴整齐，保持个人卫生，避免有异味和不良形象。
-2. *准时上下班*：严格遵守店内规定的工作时间，如果需要请假，务必在每周日前提出申请，一旦工作时间确定，不可私自旷工。
-3. *专业技能*：不断提高自身的按摩技术，按摩师之间应当相互交流，保持专业水平。
-4. *卫生管理*：工作区域保持整洁，按摩设备定期清洁，消耗品每日补齐，确保客户的健康和舒适。
+1. *Dress Neatly*: Wear appropriate attire and maintain personal hygiene during work hours, avoiding unpleasant odors and poor appearance.
+2. *Punctuality*: Adhere strictly to the work schedule set by the store. If you need to take leave, submit a request by Sunday. Once scheduled, do not skip work without permission.
+3. *Professional Skills*: Continuously improve your massage techniques, engage in mutual learning with colleagues, and maintain a high level of professionalism.
+4. *Hygiene Management*: Keep the work area clean, regularly sanitize massage equipment, replenish supplies daily, and ensure the health and comfort of customers.
 
-#### 三、服务流程
+#### III. Service Process
 
-1. *客户接待*：微笑迎接客户，详细了解客户需求，向客户介绍适合的按摩项目和套餐。
-2. *服务准备*：在服务前确认客户身体状况，调整按摩床和设备，确保客户的舒适度。
-3. *记录时间*：当客户一切准备就绪时，在每日工作表中记录当前时间、结束时间以及项目。如果客户已经付费，在“$”一栏中填写价钱；如果未付费，留空。
-4. *按摩服务*：按规范操作，力度适中，根据客户反馈及时调整手法，确保客户的满意度。
-5. *服务结束*：服务结束后，询问客户的感受和建议，记录客户的反馈和意见，为客户提供必要的后续服务。
+1. *Customer Reception*: Greet customers with a smile, understand their needs in detail, and recommend suitable massage services and packages.
+2. *Service Preparation*: Confirm the customer’s physical condition before the service, adjust the massage table and equipment to ensure customer comfort.
+3. *Record Time*: Once the customer is ready, record the start time, end time, and service item in the daily work log. If the customer has paid, indicate the amount in the “$” column; if unpaid, leave it blank.
+4. *Massage Service*: Follow standard procedures, apply appropriate pressure, adjust techniques based on customer feedback, and ensure customer satisfaction.
+5. *Service Completion*: After the service, inquire about the customer’s feelings and suggestions, document their feedback, and provide necessary follow-up services.
 
-#### 四、安全规定
+#### IV. Safety Regulations
 
-1. *应急处理*：掌握基本的急救知识，出现突发情况及时处理并上报店长或相关部门。
-2. *设备维护*：定期检查和维护按摩设备，发现问题及时报修，确保设备的正常运行。
-3. *安全操作*：使用设备时严格按照操作规程，避免操作失误和安全隐患。
+1. *Emergency Handling*: Be familiar with basic first aid knowledge, handle emergencies promptly, and report them to the manager or relevant department.
+2. *Equipment Maintenance*: Regularly check and maintain massage equipment, report issues for repair promptly, and ensure normal operation.
+3. *Safe Operation*: Follow operation procedures strictly when using equipment to avoid errors and safety hazards.
 
-#### 五、团队合作
+#### V. Team Cooperation
 
-1. *互助协作*：与同事之间保持良好的沟通和合作，共同提高工作效率和服务质量。
-2. *尊重同事*：尊重每一位同事的劳动和成果，避免内部矛盾和不良竞争。
-3. *团队建设*：积极参与店内组织的团队活动，增强团队凝聚力和归属感。
+1. *Mutual Assistance*: Maintain good communication and cooperation with colleagues to jointly improve work efficiency and service quality.
+2. *Respect Colleagues*: Respect every colleague’s work and achievements, avoiding internal conflicts and unhealthy competition.
+3. *Team Building*: Actively participate in team activities organized by the store to enhance team cohesion and a sense of belonging.
 
-#### 六、其他规定
+#### VI. Other Regulations
 
-1. *遵守法律*：严格遵守国家和地方的相关法律法规，杜绝任何违法行为。
-2. *责任承担*：对工作中的失误和错误，主动承担责任，及时改正，避免重复发生。
+1. *Compliance with Laws*: Strictly abide by relevant national and local laws and regulations, and avoid any illegal behavior.
+2. *Responsibility*: Take responsibility for mistakes and errors in work, correct them promptly, and avoid recurrence.
 
-#### 七、按摩师细则
+#### VII. Detailed Rules for Massage Therapists
 
-1. *按摩师登记*：按摩师到店后必须第一时间在每日工作表中按照到店的时间顺序填写自己的姓名。
-   - *1.1 忘记登记*：如果忘记填写，则自动排在最后一位。
-   - *1.2 签名要求*：每日工作表上的姓名必须本人填写，代签者和被代签者都将自动排在最后。
-2. *工作时间记录*：按摩师必须在按摩前在每日工作表中填写真实的开始时间、结束时间以及项目。
-   - *2.1 价格填写*：在“$”一栏中，如果客户已经付费，按摩师必须在按摩前填写价格；如果客户未付费，则不填写。
-   - *2.2 多人收款*：如果多名客户一起付款，必须同时收款，不可只收其中一人的款项。
-3. *客户接待顺序*：按摩师按结束时间先后顺序接待客户。
-   - *3.1 结束时间相同*：如果多名按摩师的结束时间相同，则按照开始时间的先后顺序排序。
-   - *3.2 开始时间相同*：如果多名按摩师的结束时间相同，并且开始时间也相同，则按上一轮工作的顺序排序。
-4. *客户指定按摩师*：如果客户指定某位按摩师服务，该按摩师不按客户接待顺序排序，并享受额外5%的提成奖励。但不可主动询问未指名的客户是否愿意由自己服务。
-5. *接受预约*：在收到预约时，需在预约登记簿上记录预约时间、项目、人数以及联系方式。
-   - *5.1 指定按摩师*：若预约客户指定按摩师，该按摩师需预留时间段，若与其他客户冲突，其他客户由其他按摩师服务，不得私自与预约客户联系更改时间。
-   - *5.2 未指定按摩师*：确保预约时间段内有按摩师提供服务。
-   - *5.3 预约客户未到*：若预约客户未按时抵达，且按摩师均在工作，可与预约客户联系，若联系不上，则无需等待。
-6. *中途外出*：按摩师中途外出且超过1小时，回店后按返回时间重新排序。
-7. *服务期间换人*：除非客户要求，不允许同一客户由两名按摩师服务。
-8. *定期检查*：店长或指定负责人定期检查按摩师的工作记录，确保其真实性和准确性。
+1. *Therapist Registration*: Therapists must record their names in the daily work log immediately upon arrival at the store, in order of arrival.
+   - *1.1 Forgetting to Register*: If you forget to sign in, you will be placed last.
+   - *1.2 Signature Requirement*: Names must be written by the therapist themselves; both the substitute signer and the one substituted for will be placed last.
+2. *Work Time Recording*: Therapists must record the actual start time, end time, and service item in the daily work log before starting a massage.
+   - *2.1 Price Entry*: In the “$” column, if the customer has paid, the therapist must fill in the price before the massage; if unpaid, leave it blank.
+   - *2.2 Multiple Payments*: If multiple customers pay together, all payments must be collected at once.
+3. *Customer Reception Order*: Therapists attend to customers in the order of their end times.
+   - *3.1 Same End Time*: If multiple therapists have the same end time, they are sorted by start time.
+   - *3.2 Same Start Time*: If multiple therapists have the same start and end times, they are sorted by the order of their previous work.
+4. *Customer-Specified Therapist*: If a customer specifies a therapist, that therapist is exempt from the reception order and receives an additional 5% commission. Do not ask customers who have not specified a therapist if they would prefer your service.
+5. *Accepting Reservations*: Record reservation time, service items, number of people, and contact information in the reservation log.
+   - *5.1 Specified Therapist*: If the reserved customer specifies a therapist, that therapist must reserve the time slot. If there is a conflict, other customers are served by other therapists.
+   - *5.2 Unspecified Therapist*: Ensure that a therapist is available during the reserved time slot.
+   - *5.3 No-Show Reservations*: If a reserved customer does not arrive on time and all therapists are busy, contact the customer. If unreachable, do not wait further.
+6. *Leaving Mid-Shift*: If a therapist leaves mid-shift for over an hour, they are re-sorted based on their return time.
+7. *Service Substitution*: Unless requested by the customer, do not have two therapists serve the same customer.
+8. *Regular Inspections*: The manager or designated person will regularly check therapists' work records to ensure authenticity and accuracy.
 
-希望每一位按摩师都能严格遵守上述守则，共同努力提升按摩店的服务质量和声誉，为客户提供一个舒适、安心的按摩体验。
+All therapists are expected to adhere strictly to these rules to enhance the massage store’s service quality and reputation, providing customers with a comfortable and secure massage experience.
