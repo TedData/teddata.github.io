@@ -7,11 +7,11 @@ layout: default
 <!-- <img src="{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" width="0" height="0"> -->
 
 {% comment %}
-    @param {string} type - 'single' | 'post' | 'keynote'
+    @param {string} type - 'page' | 'post' | 'keynote' | 'single'
     @param {boolean} short
 {% endcomment %}
 
-{% if include.type == 'post' or include.type == 'single' %}
+{% if include.type == 'post' or include.type == 'page' or include.type == 'single' %}
 <style type="text/css">
     header.intro-header{
         position: relative;
