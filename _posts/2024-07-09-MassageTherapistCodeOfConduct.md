@@ -22,4 +22,8 @@ multilingual : true
     {{ about_en | markdownify }}
 </div>
 
-
+<!-- Japanese Version -->
+<div class="ja post-container">
+    {% capture about_ja %}{% include posts/2024-07-09-MassageTherapistCodeOfConduct/ja.md %}{% endcapture %}
+    {{ about_ja | markdownify }}
+</div>
