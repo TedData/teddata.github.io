@@ -10,11 +10,6 @@ catalog:      true
 multilingualsingle : true
 ---
 
-<!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include posts/2024-07-09-MassageTherapistCodeOfConduct/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
-</div>
 
 <!-- Chinese Version -->
 <div class="zh post-container">
@@ -23,3 +18,8 @@ multilingualsingle : true
 </div>
 
 
+<!-- English Version -->
+<div class="en post-container">
+    {% capture about_en %}{% include posts/2024-07-09-MassageTherapistCodeOfConduct/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>
