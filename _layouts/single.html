@@ -23,7 +23,9 @@ layout: default
                 {{ content }}
 
                 <hr style="visibility: hidden;">
-
+                {% if page.multilingual %}
+                    {% include multilingual-single.html %}
+                {% endif %}
                 <hr style="visibility: hidden;">
 
 
