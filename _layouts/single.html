@@ -30,7 +30,7 @@ layout: default
 </style>
 {% endif %}
 
-{% if include.type == 'single' %}
+{% if include.type == 'single' or include.type == 'post' %}
 {% if page.header-style == 'text' %}
 <header class="intro-header style-text" >
 {% else %}
