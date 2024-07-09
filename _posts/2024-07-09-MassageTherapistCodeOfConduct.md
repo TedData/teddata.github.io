@@ -11,7 +11,7 @@ multilingual: true
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-    {% capture about_zh %}{% include posts/2017-07-12-upgrading-eleme-to-pwa/zh.md %}{% endcapture %}
+    {% capture about_zh %}{% include posts/2024-07-09-MassageTherapistCodeOfConduct/zh.md %}{% endcapture %}
     {{ about_zh | markdownify }}
 </div>
 
