@@ -2,13 +2,12 @@
 layout: default
 ---
 
-<!-- Image to hack wechat -->
-<!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
-<!-- <img src="{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" width="0" height="0"> -->
 
 
 <!-- Post Content -->
 <article>
+    <div class="container">
+        <div class="row">
 
     <!-- Post Container -->
             <div class="
@@ -21,7 +20,12 @@ layout: default
                     {% include multilingual-single.html %}
                 {% endif %}
 
-		{{ content }}
+				{{ content }}
+
+                <hr style="visibility: hidden;">
+
+                <hr style="visibility: hidden;">
+
 
             </div>  
 
@@ -42,6 +46,18 @@ layout: default
             </div>
         {% endunless %}
 
+    <!-- Sidebar Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                <!-- Featured Tags -->
+                {% include featured-tags.html bottom=true %}
+
+                <!-- Friends Blog -->
+                {% include friends.html %}
+            </div>
         </div>
     </div>
 </article>
@@ -50,6 +66,9 @@ layout: default
 {% if page.mathjax %}
   {% include mathjax_support.html %}
 {% endif %}
+
+
+
 
 {% if site.disqus_username %}
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
@@ -103,4 +122,4 @@ layout: default
         }
     }
 </style>
-{% endif %
+{% endif %}
