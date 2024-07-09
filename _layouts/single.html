@@ -22,11 +22,7 @@ layout: default
 
                 <!-- Multi-Lingual -->
                 {% if page.multilingual %}
-                                    <!-- Language Selector -->
-                <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-                    <option value="0" selected> English </option>
-                    <option value="1"> 中文 </option>
-                </select>
+                    {% include multilingual-single.html %}
                 {% endif %}
 
                 {{ content }}
