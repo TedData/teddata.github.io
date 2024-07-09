@@ -1,5 +1,5 @@
 ---
-layout:       single
+layout:       post
 title:        "Massage Therapist Code of Conduct"
 subtitle:     "按摩店按摩师守则"
 date:         2024-07-09 12:00:00
