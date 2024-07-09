@@ -7,7 +7,7 @@ author:       "KaNa"
 header-img:   "img/in-post/2023-11-10/2021-11-18.png"
 header-mask:  0.3
 catalog:      true
-multilingual: true
+multilingualsingle : true
 ---
 
 <!-- English Version -->
