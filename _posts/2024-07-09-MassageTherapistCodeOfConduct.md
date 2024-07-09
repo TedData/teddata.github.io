@@ -10,14 +10,16 @@ catalog:      true
 multilingual : true
 ---
 
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture about_zh %}{% include posts/2024-07-09-MassageTherapistCodeOfConduct/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
+</div>
+
 <!-- English Version -->
 <div class="en post-container">
     {% capture about_en %}{% include posts/2024-07-09-MassageTherapistCodeOfConduct/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
 </div>
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include posts/2024-07-09-MassageTherapistCodeOfConduct/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
-</div>
+
