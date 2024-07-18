@@ -21,4 +21,3 @@ multilingual : true
     {% capture about_en %}{% include posts/2024-07-09-MassageTherapistCodeOfConduct/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
 </div>
-
