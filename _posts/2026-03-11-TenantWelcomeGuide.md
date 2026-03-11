@@ -159,7 +159,7 @@ tags:
 ![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture22.jpg) 
 * 垃圾收集日：
 
-  * 每周一晚上推出
+  * 每周一推出
   * 周二下午收回
 * 请按规定处理垃圾，保持公共区域整洁
 
