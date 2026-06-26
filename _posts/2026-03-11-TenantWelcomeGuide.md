@@ -180,15 +180,23 @@ tags:
 ## 🗑 六、垃圾处理
 
 * 垃圾分类：红色桶（普通垃圾）、绿色桶（花园垃圾）、黄色桶（可回收）
-* 黄色桶：可回收物请正确投放
-
-![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture21.jpg) 
-![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture22.jpg) 
 * 垃圾收集日：
 
   * 每周一推出
   * 周二下午收回
 * 请按规定处理垃圾，保持公共区域整洁
+
+### 红色桶：用于普通生活垃圾投放
+- 扔完垃圾后，请务必确保**红色盖子能够完全盖上并扣紧**
+
+⚠️ **重要提醒：**  
+如果垃圾袋过大或堆放过高，导致垃圾桶盖无法正常关闭，鸟类可能会啄破垃圾袋，将垃圾拖出并散落到周围区域，造成环境污染和异味问题。此前已因此收到邻居投诉。
+
+![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Image_20260626115115.jpg) 
+### 黄色桶：可回收物请正确投放
+
+![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture21.jpg) 
+![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture22.jpg) 
 
 ---
 
