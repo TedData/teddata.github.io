@@ -196,7 +196,7 @@ tags:
 ⚠️ **重要提醒：**  
 如果垃圾袋过大或堆放过高，导致垃圾桶盖无法正常关闭，鸟类可能会啄破垃圾袋，将垃圾拖出并散落到周围区域，造成环境污染和异味问题。此前已因此收到邻居投诉。
 
-![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Image_20260626115115.jpg) 
+![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Image_20260626115116.jpg) 
 ### 黄色桶：可回收物请正确投放
 
 ![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture21.jpg) 
