@@ -110,6 +110,7 @@ tags:
 * 请将水槽滤网中的食物残渣、菜叶、米饭等残留物倒入垃圾桶，**不要直接冲入下水管道**，以免造成堵塞。
 
 ![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture6.jpg)
+
 ⚠️ **重要提醒：**
 若因食物残渣等异物导致水槽堵塞，需要联系Plumber进行维修，所产生的维修费用将由**当时居住的所有租客共同分摊**。
 
