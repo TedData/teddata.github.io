@@ -107,8 +107,12 @@ tags:
 ## 🍳 三、厨房使用
 
 * 使用后请清洗餐具、整理灶台和台面、丢弃垃圾
+* 请将水槽滤网中的食物残渣、菜叶、米饭等残留物倒入垃圾桶，**不要直接冲入下水管道**，以免造成堵塞。
 
 ![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture6.jpg)
+⚠️ **重要提醒：**
+若因食物残渣等异物导致水槽堵塞，需要联系Plumber进行维修，所产生的维修费用将由**当时居住的所有租客共同分摊**。
+
 * 垃圾袋请每日处理
 
 ![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture7.jpg)
@@ -216,9 +220,12 @@ tags:
 
 ## 🌐 八、WiFi信息
 
-* WiFi 名称：NOKIA-F71A
-* WiFi 密码：H47aDExc5E
-* 请合理使用网络，不得进行违法活动或下载非法内容
+* WiFi 名称：NOKIA-F71A  
+* WiFi 密码：H47aDExc5E  
+
+💡 **小贴士**：如果出现 WiFi 显示已连接但无法上网的情况，请尝试手动切换到以下网络：
+* NOKIA-F71A-5G
+* NOKIA-F71A-2.4G
 
 ---
 
