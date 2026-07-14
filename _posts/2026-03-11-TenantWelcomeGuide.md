@@ -112,7 +112,7 @@ tags:
 ![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture6.jpg)
 
 ⚠️ **重要提醒：**
-若因食物残渣等异物导致水槽堵塞，需要联系Plumber进行维修，所产生的维修费用将由**当时居住的所有租客共同分摊**。
+若因食物残渣等异物导致水槽堵塞，需要联系Plumber处理，所产生的费用将由**当时居住的所有租客共同分摊**。
 
 * 垃圾袋请每日处理
 
