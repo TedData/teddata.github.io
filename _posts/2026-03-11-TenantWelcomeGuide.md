@@ -107,7 +107,7 @@ tags:
 ## 🍳 三、厨房使用
 
 * 使用后请清洗餐具、整理灶台和台面、丢弃垃圾
-* 请将水槽滤网中的食物残渣、菜叶、米饭等残留物倒入垃圾桶，**不要直接冲入下水管道**，以免造成堵塞。
+* 请将水槽滤网中的食物残渣、菜叶、米饭等残留物倒入垃圾桶，<span style="color:red"><strong>不要直接冲入下水管道</strong></span>，以免造成堵塞。
 
 ![](https://raw.githubusercontent.com/TedData/TedData.github.io/master/img/in-post/TenantWelcomeGuide/Picture6.jpg)
 
@@ -192,9 +192,9 @@ tags:
 * 垃圾分类：红色桶（普通垃圾）、绿色桶（花园垃圾）、黄色桶（可回收）
 * 垃圾收集日：
 
-  <span style="color:red">⚠️ 每周一推出</span>
+  <span style="color:red"><strong>每周一推出</strong></span>
   
-  <span style="color:red">⚠️ 周二下午收回</span>
+  <span style="color:red"><strong>周二下午收回</strong></span>
 
 * 请按规定处理垃圾，保持公共区域整洁
 
